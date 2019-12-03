@@ -94,15 +94,8 @@
                                 <table cellspacing="0" cellpadding="0">
                                     <tbody>
                                     <tr>
-                                        <td valign="top" class="first-child">累计服务: </td>
-                                        <td class="info-pos last-child">
-                                            <p class="address">${list.times}次</p>
-                                    </tr>
-                                    <tr>
                                         <td valign="top" class="first-child">医院地址: </td>
-                                        <td class="info-pos last-child">
-                                            <p class="address">${list.address}</p>
-                                            <a href="#" class="marker" target="_blank"><i class="fa fa-map-marker"></i>查看地图</a></td>
+                                        <td></td>
                                     </tr>
                                     </tbody>
                                 </table>
@@ -179,26 +172,6 @@
         </div>
     </div>
     <input type="hidden" id="search-tag" value=""><aside class="right-sidebar">
-    <article class="broad" style="border-bottom: none; margin-bottom: 0px;">
-        <h1 class="title">挂号规则</h1>
-        <div class="ct">
-            <p class="depics"><b class="sq">1.</b>每日8:00左右更新后一天号源</p>
-            <p class="depics"><b class="sq">2.</b>可预约当天和未来2周号源</p>
-            <p class="depics"><b class="sq">3.</b>请参考短信提示，到医院就诊</p>
-            <p class="depics"><b class="sq">4.</b>就诊前一天16:00前，到“我的医者天下”&gt;“我的预约”，可取消预约</p>
-            <p class="depics"><b class="sq">5.</b>如需帮助，可拨打客服4000-xxx-xxx(10:00-18:00)</p>
-        </div>
-    </article>
-    <article class="broad" style="margin-bottom: 0px;">
-        <h1 class="title">帮助中心</h1>
-        <div class="ct">
-            <p class="depics"><b class="sq">1.</b><a target="_blank" href="#">医者天下是什么？</a></p>
-            <p class="depics"><b class="sq">2.</b><a target="_blank" href="#">如何选择医生？</a></p>
-            <p class="depics"><b class="sq">3.</b><a target="_blank" href="#">如何预约医生？</a></p>
-            <p class="depics"><b class="sq">4.</b><a target="_blank" href="#">如何评价医生？</a></p>
-            <a class="more" target="_blank" href="#">查看更多&gt;</a>
-        </div>
-    </article>
 
 
 </aside>
@@ -214,7 +187,7 @@
                 <a href="#" target="_blank"><span>帮助</span>|</a>
                 <a href="#" target="_blank"><span>用户协议</span>|</a>
                 <a href="#" target="_blank"><span>意见反馈</span></a>
-                <a href="#" target="_blank"><span>©2016 Mstanford &nbsp;&nbsp;隐私条款</span></a>
+                <a href="#" target="_blank"><span>©2019 Mstanford &nbsp;&nbsp;隐私条款</span></a>
             </dd>
         </div>
     </div>
